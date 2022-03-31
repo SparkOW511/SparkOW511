@@ -4,7 +4,9 @@
 Stuff I do
 
 -💻 Frontend developer
+
 -💞️ I’m looking to collaborate on game development project
+
 -📫 How to reach me (via discord SparK#4370)
 
 
