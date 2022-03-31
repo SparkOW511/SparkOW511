@@ -3,13 +3,16 @@
 
 Stuff I do
 
--💻 Frontend developer
+- 💻 Frontend developer
 
--💞️ I’m looking to collaborate on game development project
+- 🤝 I’m looking to collaborate on game development project
 
--📫 How to reach me (via discord SparK#4370)
+- 📫 How to reach me (via discord SparK#4370)
 
-![image](https://github-readme-stats.vercel.app/api?username=SparkOW511&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SparkOW511&theme=ayu-mirage&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparkOW511)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
