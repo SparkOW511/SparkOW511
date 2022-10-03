@@ -1,6 +1,3 @@
-
-![image](https://user-images.githubusercontent.com/92668831/161080289-05953d62-4371-446f-9572-24b2c66eb132.png)
-
 - 💻 Frontend developer
 
 - 🤝 I’m looking to collaborate on game development projects
