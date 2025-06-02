@@ -6,7 +6,11 @@
 
 My name is Timotej, and I'm currently studying at Electrotechnical and Computer Technical School and Gymnasium Ljubljana - Vegova
 
-## 🤓 Github Stats
+- 🏢 currently an intern at Modernode
+-  Available for freelance website development
+  - feel free to reach out to timotej.borstnar@gmail.com
+
+## 📊 Github Stats
 
 ![Timotej's GitHub stats](https://github-readme-stats.vercel.app/api?username=SparkOW511&theme=ayu-mirage&show_icons=true)
 
