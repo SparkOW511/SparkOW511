@@ -1,8 +1,8 @@
 ## Hi there 👋, my name is Timotej Borstnar
 
 [![youtube channel link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Sp4rkXy)
+[![twitter profile link](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SparkOW3)
 [![My website](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](https://timotejborstnar.com/)
-[![X profile link](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/SparkOW3)
 
 ## 🤓 Github Stats
 
