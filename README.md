@@ -12,9 +12,9 @@ My name is Timotej, and I'm currently studying at Electrotechnical and Computer 
 
 ## 📊 Github Stats
 
-![Timotej's GitHub stats](https://github-readme-stats.vercel.app/api?username=SparkOW511&theme=ayu-mirage&show_icons=true)
+![SparkOW511's Stats](https://github-readme-stats.vercel.app/api?username=SparkOW511&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparkOW511&theme=ayu-mirage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![SparkOW511's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SparkOW511&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
 
 
 
