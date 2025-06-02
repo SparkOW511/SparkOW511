@@ -1,4 +1,6 @@
-## Hi there 👋, my name is Timotej Borstnar
+## Hi there 👋
+
+My name is Timotej, and I'm currently studying at Electrotechnical and Computer Technical School and Gymnasium Ljubljana - Vegova
 
 [![youtube channel link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Sp4rkXy)
 [![twitter profile link](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SparkOW3)
