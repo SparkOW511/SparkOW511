@@ -6,7 +6,7 @@
 
 My name is Timotej, and I'm currently studying at Electrotechnical and Computer Technical School and Gymnasium Ljubljana - Vegova
 
-- 🏢 currently an intern at Modernode
+- 🏢 Lead developer @Noctrify
 - 🌐 Available for freelance website development
   - feel free to reach out to timotej.borstnar@gmail.com
  
